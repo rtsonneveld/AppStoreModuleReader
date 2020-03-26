@@ -1,0 +1,26 @@
+{
+  "name": "AppStoreModuleReader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/request-promise-native": "^1.0.17",
+    "@types/when": "^2.4.33",
+    "axios": "^0.19.2",
+    "http": "0.0.0",
+    "mendixmodelsdk": "~4.25.0",
+    "mendixplatformsdk": "~4.1.1",
+    "request": "^2.88.2",
+    "typescript-rest": "^3.0.1",
+    "when": "^3.7.8"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.7"
+  }
+}
