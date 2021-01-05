@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/request-promise-native": "^1.0.17",
     "@types/when": "^2.4.33",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "http": "0.0.0",
     "mendixmodelsdk": "~4.25.0",
     "mendixplatformsdk": "~4.1.1",
